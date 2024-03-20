@@ -1,4 +1,4 @@
-![Screenshot_20240320_120847](https://github.com/rutvik4940/browser_app/assets/153794371/c6e633f2-dd82-409a-90d9-6eaaa5e4e41b)# mirror_well_app
+
 
 A new Flutter project.
 
