@@ -1,4 +1,4 @@
-mirror_wall_app
+Mirror_wall_app
 
 
 The aim of this project is to develop a mobile browser application using the Flutter framework
