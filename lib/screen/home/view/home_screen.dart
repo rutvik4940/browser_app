@@ -181,7 +181,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         );
                         Navigator.pop(context);
                       },
-                      child: Row(
+                      child: Column(
                         children: [
                           Text(providerR!.book[index]),
                         ],
