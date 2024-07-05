@@ -20,6 +20,14 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+Display all products as a Grid in HomePage
+- Show category-wise products in HomePage
+- Display a tapped product in DetailPage
+- Store a product which you added to cart in local storage using shared preferences
+- Display stored/added products in CartPage from shared preferences
+- Remove stored/added products from CartPage by removing from shared preferences
+
+
 <p>
   <img src="https://github.com/rutvik4940/browser_app/assets/153794371/da9c607f-6e9b-4283-8a2b-548d7c151a0a"
   height="400px" width ="200px"/>
