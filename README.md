@@ -41,6 +41,7 @@ Display all products as a Grid in HomePage
   height="400px" width ="200px"/>
    <img src="https://github.com/rutvik4940/browser_app/assets/153794371/31aa963f-353a-46c5-aad1-f0e63ea082d9"
   height="400px" width ="200px"/>
+<img width="119" alt="Screenshot 2024-09-13 at 3 38 14 PM" src="https://github.com/user-attachments/assets/3c7c5ebf-588c-4573-a110-33302cacd7ff">
 
 
 https://github.com/rutvik4940/browser_app/assets/153794371/bd861bd9-0e67-4a34-a8c7-b064602ec6f6
